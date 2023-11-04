@@ -6,7 +6,7 @@ Todos los retos de programación de Codember en Python. Creador del proyecto: [m
 
 |2022|Reto|Solución|
 |----|----|----|
-|1|[¡Arregla Twitter!](./challenge01.py)|<details><summary>$ submit</summary>156@giroz</details>|
+|1|[¡Arregla Twitter!](./2022/challenge01.py)|<details><summary>$ submit</summary>156@giroz</details>|
 |2|[¡Atrapa a esos ciber criminales!](./challenge02.py)|<details><summary>$ submit</summary>thanks for playing codember please share</details>|
 |3|[La zebra de colores](./challenge03.py)|<details><summary>$ submit</summary>30@red</details>|
 |4|[Encuentra la contraseña de tu amigo](./challenge04.py)|<details><summary>$ submit</summary>165-23555</details>|
