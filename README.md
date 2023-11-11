@@ -14,4 +14,5 @@ Todos los retos de programación de Codember en Python. Creador del proyecto: [m
 
 |2023|Reto|Solución|
 |----|----|----|
-|1|[Reto 1](2023/challenge_01.py)|<details><summary>$ submit</summary>murcielago15leon15jirafa15cebra6elefante15rinoceronte15hipopotamo15ardilla15mapache15zorro15lobo15oso15puma2jaguar14tigre10leopardo10gato12perro12caballo14vaca14toro14cerdo14oveja14cabra14gallina10pato10ganso10pavo10paloma10halcon11aguila11buho11colibri9canario8loro8tucan8pinguino7flamenco7</details>|
+|1|[El reto](2023/challenge_01.py)|<details><summary>$ submit</summary>murcielago15leon15jirafa15cebra6elefante15rinoceronte15hipopotamo15ardilla15mapache15zorro15lobo15oso15puma2jaguar14tigre10leopardo10gato12perro12caballo14vaca14toro14cerdo14oveja14cabra14gallina10pato10ganso10pavo10paloma10halcon11aguila11buho11colibri9canario8loro8tucan8pinguino7flamenco7</details>|
+|2|[Mini Compiler Challenge](2023/challenge_02.py)|<details><summary>$ submit</summary>024899455</details>|
